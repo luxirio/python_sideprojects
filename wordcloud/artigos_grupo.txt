@@ -1,0 +1,144 @@
+Use of machine learning approaches for novel drug discovery
+Nitric oxide: state of the art in drug design
+Design and synthesis of new (E)-cinnamic N-acylhydrazones as potent antitrypanosomal agents
+Quantitative structure–activity relationships for a series of inhibitors of cruzain from Trypanosoma cruzi: Molecular modeling, CoMFA and CoMSIA studies
+Structure-activity relationships for a class of selective inhibitors of the major cysteine protease from Trypanosoma cruzi
+Pharmacological Evaluation and Preparation of Nonsteroidal Anti-Inflammatory Drugs Containing an N-Acyl Hydrazone Subunit
+Enantioselective Arylations Catalyzed by Carbohydrate‐Based Chiral Amino Alcohols
+Cruzain inhibition by hydroxymethylnitrofurazone and nitrofurazone: investigation of a new target in Trypanosoma cruzi
+Theoretical study of tautomers and photoisomers of avobenzone by DFT methods
+Caracterização físico-química de complexo de inclusão entre hidroximetilnitrofurazona e hidroxipropil-beta-ciclodextrina
+New tuberculostatic agents targeting nucleic acid biosynthesis: drug design using QSAR approaches
+Fragment‐based drug discovery as alternative strategy to the drug development for neglected diseases
+An integrated approach towards the discovery of novel non-nucleoside Leishmania major pteridine reductase 1 inhibitors
+Studies of Staphylococcus aureus FabI inhibitors: fragment-based approach based on holographic structure–activity relationship analyses
+5-Nitro-2-furaldehyde N-(hydroxymethyl) semicarbazone
+Hologram QSAR studies of antiprotozoal activities of sesquiterpene lactones
+Molecular cloning and characterization of pirarucu (Arapaima gigas) follicle-stimulating hormone and luteinizing hormone β-subunit cDNAs
+The anti-inflammatory and immunomodulatory potential of braylin: Pharmacological properties and mechanisms by in silico, in vitro and in vivo approaches
+Electrochemical reduction using glassy carbon electrode in aqueous medium of a potential anti-Chagas drug: NFOH
+Characterization and Short-Term clinical study of clay facial mask
+Benchmark studies of UV–vis spectra simulation for cinnamates with UV filter profile
+Nitrofurazone and its nitroheterocyclic analogues: a study of the electrochemical behavior in aqueous medium
+Advances and challenges in drug design of PPARδ Ligands
+Preparação e caracterização inicial de complexo de inclusão entre nitrofurazona e 2-hidroxipropil-ciclodextrina
+β-amino alcohols and their respective 2-phenyl-N-alkyl aziridines as potential DNA minor groove binders
+The survey of the use of QSAR methods to determine intestinal absorption and oral bioavailability during drug design
+Application of bioisosterism in design of the semicarbazone derivatives as cruzain inhibitors: a theoretical and experimental study
+Molecular modeling and docking application to evaluate cruzain inhibitory activity by chalcones and hydrazides
+Quantitative structure–activity relationships (HQSAR, CoMFA, and CoMSIA) studies for COX-2 selective inhibitors
+Síntese de heterociclos bioativos derivados do ferroceno
+Targeting the Plasmodium falciparum plasmepsin V by ligand‐based virtual screening
+GQ-11: a new PPAR agonist improves obesity-induced metabolic alterations in LDLr−/− mice
+Hologram quantitative structure–activity relationship and comparative molecular interaction field analysis of aminothiazole and thiazolesulfonamide as reversible LSD1 inhibitors
+Modelagem molecular no ensino de química farmacêutica
+Theoretical and voltammetric studies of 5-nitro-heterocyclic derivatives with potential trypanocidal activities
+Insights on 3D structures of potential drug‐targeting proteins of SARS‐CoV‐2: application of cavity search and molecular docking
+Biased agonist TRV027 determinants in AT1R by molecular dynamics simulations
+Complementary quantitative structure–activity relationship models for the antitrypanosomal activity of sesquiterpene lactones
+Identification, in vitro testing and molecular docking studies of microginins’ mechanism of angiotensin-converting enzyme inhibition
+Synthesis, leishmanicidal activity, structural descriptors and structure–activity relationship of quinoline derivatives
+The role of QSAR and virtual screening studies in type 2 diabetes drug discovery
+Synthesis optimization of hydroxymethylnitrofurazone, an antichagasic candidate, using 3 (2) factorial design
+Inhibition of porcine aminopeptidase M (pAMP) by the pentapeptide microginins
+Indole-3-glyoxyl tyrosine: synthesis and antimalarial activity against Plasmodium falciparum
+Convergent QSAR studies on a series of NK3 receptor antagonists for schizophrenia treatment
+Synthesis of two ‘heteroaromatic rings of the future’for applications in medicinal chemistry
+Toward chelerythrine optimization: Analogues designed by molecular simplification exhibit selective growth inhibition in non-small-cell lung cancer cells
+In silico studies on the interaction between bioactive ligands and ALK5, a biological target related to the cancer treatment
+Design, synthesis and biological activity of novel substituted 3-benzoic acid derivatives as MtDHFR inhibitors
+Identification, characterization and molecular modelling studies of Schistosoma mansoni dihydrofolate reductase inhibitors: from assay development to hit identification
+Synthesis of C-glycosyl-bis-1,2,3-triazole derivatives from 3,4,6-tri-O-acetyl-D-glucal
+Host–guest complexation of a nitroheterocyclic compound with cyclodextrins: a spectrofluorimetric and molecular modeling study
+Physico-chemical characterization of inclusion complex between hydroxymethylnitrofurazone and hydroxypropyl-beta-cyclodextrin
+QSAR studies on the human sirtuin 2 inhibition by non-covalent 7, 5, 2-anilinobenzamide derivatives
+Molecular modeling suggests cruzain specificity for peptide primaquine prodrugs
+The anti-inflammatory and immunomodulatory potential of braylin: Pharmacological properties and mechanisms by in silico, in vitro and in vivo approaches
+Hydroquinone exposure worsens rheumatoid arthritis through the activation of the aryl hydrocarbon receptor and interleukin-17 pathways
+Synthesis of bioactive heterocyclic ferrocene derivatives
+Antichagásicos potenciais: busca racional de compostos com ação seletiva pela cruzaína
+Preparation and initial characterization of inclusion complex between nitrofurazone and 2-Hydroxypropyl-beta-cyclodextrin
+Antichagásicos potenciais: síntese de bases de Mannich do hidroximetilnitrofural
+Antibodies Against the Plasmodium vivax Apical Membrane Antigen 1 From the Belem Strain Share Common Epitopes Among Other Worldwide Variants
+Simulação do espectro de absorção UV do filtro solar p-metoxicinamato de etilexila empregando métodos teóricos (TD-DFT)
+Insights into Newly Approved Drugs from a Medicinal Chemistry Perspective
+Role of a high centrality residue in protein dynamics and thermal stability
+Planejamento de inibidores seletivos de sirtuína 2 de tripanossomatídeos baseado em fragmentos moleculares (FBDD)
+Planejamento de inibidores da cruzaína de Trypanosoma cruzi, pela aplicação de técnicas computacionais
+Construção de banco de dados de compostos com propriedades farmacocinéticas
+Estudo de relação quantitativa entre estrutura química e atividade biológica para propriedades farmacocinética
+Electrochemical and Theoretical Studies on the Artesunate Reduction
+New methodology for the synthesis of sirtinol analogues a Sirtuin 2 inhibitor as antichagasic candidates
+Search of the sirtuin 2 inhibitor as antichagasic candidate by structure-based drug design
+Compostos carbonílicos α, β-insaturados e hidrazonas sintéticas como antiparasitários
+Comparative protein modelling of trypanosomatid epigenetic targets
+Hybridization approach for drug design in anti-leishmanial cinnamoylhydrazones
+Synthesis and docking study for compounds analogs of LSD1 inhibitor
+Sulfonylhydrazones as novel antimalarial scaffold: design, synthesis, biological evaluation and machine learning models for structure-activity relationship interpretation
+An extended study on quantitative structure-antitrypanosomal activity relationships of sesquiterpene lactones
+Structure based drug design in the search of selective inhibitors of the plasmepsin V (PmVPf) from Plasmodium falciparum
+Quantitative structure-activity relationship applied of a series of 2-anilinobenzamide derivatives as Sirtuin-2 selective compounds hematological cancers candidates
+Comportamento voltamétrico de um análogo sulfonil-hidrazona do nitrofural com potencial atividade antichagásica
+Optimization of new dihydrofolate reductase inhibitors of mycobacterium tuberculosis (mtDHFR): molecular docking, synthesis, evaluation of enzyme inhibition and antimycobacterial activity
+Synthesis of inhibitors of sirtuin 2 for chagas disease
+Determinação de método de expressão e purificação de Sirtuína 2 de Trypanossoma Brucei
+Síntese e caracterização de derivados piperazínicos como potenciais inibidores de Desmetilase Lisina-Específica 1 (LSD1)
+Trypanosoma cruzi sirtuin-2 construction by modeling threading and molecular dynamics
+Molecular dynamic simulation and pharmacophore model of parasitic cysteine proteases
+Search of new anti-cancer compounds through combined QSAR and virtual screening of allosteric LSD1 inhibitors
+Pharmacophore construction of Cyclooxygenase-2 (COX-2) selective inhibitors based on QSAR models
+Biological evaluation against P. falciparum resistant and sensitive strains of synthetic sufonylhydrazones
+Construction and validation of the CPB2. 8 model and pharmacophore model design of cysteine proteases
+Virtual screening applied in hit identification as LSD1 inhibitors, a epigenetic target for cancer treatment
+Busca de antichagásicos por aplicação do bioisosterismo do nitrofural
+Molecular modeling and docking of microginin the active site of ACE
+Construction and validation of the 3D-structure of T. Cruzi sirtuin-2 by modeling threading
+Construção e validação da cisteíno-protease de L. mexicana (CPB2. 8) como alvo bioquímico no planejamento de fármacos
+Hologram QSAR studies of antiprotozoal activities of sesquiterpene lactones
+Pharmacological Evaluation and Preparation of Nonsteroidal Anti-Inflammatory Drugs Containing an N-Acyl Hydrazone Subunit
+In vitro cytotoxicity and metabolic stability of novel potential antichagasic agents
+Comparison between full and biased agonist's interactions with the angiotensin II type 1 receptor
+Building and validation of a pharmacophore model of LSD-1 inhibitors for virtual screening
+Pharmacophore model for biased agonists of angiotensin II receptor type 1: a molecular modeling study
+ANÁLISE DE INTERAÇÃO COM O SÍTIO ATIVO: COMPLEMENTARIDADE, POTÊNCIA E RESISTÊNCIA
+Application of bioisosterism approach in the design, synthesis, and biological evaluation of nitrofurazone derivatives as antichagasic candidates
+Synthesis, molecular modeling and docking studies of nitrofurazone analogues as trypanomicine candidates
+Síntese e avaliação da atividade inibitória da cruzaína de bioisósteros sulfonilidrazônicos do NF, planejados como candidatos a antichagásicos
+Synthesis and biological evaluation of allylic sulfonylhydrazones derivatives as antichagasic candidates
+Design and docking of bioisosteric 1, 2, 4-triazolic analogs of nfoh using trypanosoma cruzi 14a-sterol demethylase
+Planejamento e estudo de docking de análogos bioisostéricos 1, 2, 4-triazólicos do NFOH em 14α-esterol desmetilase de Trypanosoma cruzi
+Characterization of hydroxymethylnitrofurazone compounds as inhibitors of Leishmania mexicana cysteine proteases
+Design, synthesis and biochemistry evaluation of novel (E)-Cinnamic N-acylhydrazone antichagasic candidates
+Estudo de docking molecular com análogos da timidina inibidores da TMPK do Mycobacterium tuberculosis
+Síntese de 5-nitrotriazóis potencialmente antichagásicos e estudos preliminares de modelagem molecular
+Planejamento e síntese de derivados hidrazônicos candidatos agentes antichagásicos
+Stereoeletronic molecular modeling studies by chalcones and hydrazides as antichagasic candidates
+Synthesis of acoxy cyclo exilic compound analogue to chemotherapeutic miltefosine agent
+Síntese do composto acóxicicloexílico análogo ao agente quimioterápico miltefosina
+Planejamento baseado na estrutura do receptor de inibidores da cruzaína de Trypanosoma cruzi: triagem virtual, avaliação bioquímica e biológica
+Avaliação bioquímica e docagem molecular de uma série de derivados de chalconas e semicarbazonas candidatos a inibidores de cruzaína
+Molecular modeling analysis of C14α-sterol demethylase (CYP51) as a target for potential antichagasic drugs
+Nitro radical anion formation in aqueous medium from nitrofurazone analogues with potential activity antichagasic
+Synthesis of bioisosteres of nitrofural as candidates to antichagasic agents
+Effect of pH and glassy carbon electrode (GCE) polishing on reduction of NF bioisosters potentially active as antichagasic agents
+Triagem virtual de inibidores da enzima cruzaína de Trypanosoma cruzi
+Planejamento de fármacos baseado na estrutura: triagem virtual e avaliação bioquímica de novos inibidores da cruzaína de Trypanosoma cruzi
+Avaliação bioquímica de uma série de chalconas como inibidores da cruzaína de Trypanosoma cruzi
+Cruzain inhibitory activity of chalcones and hydrazones
+Structure-based drug design: virtual screening and biochemical evaluation of new Trypanosoma cruzi cruzain inhibitors
+Avaliação bioquímica de uma série de chalconas e derivados semicarbazona como inibidores da cruzaína de Trypanosoma cruzi
+Estudo de Relações Estrutura-Atividade Quantitativas de uma Série de Inibidores da Cruzaína utilizando Modelagem Molecular, CoMFA e CoMSIA
+Physical and Analytical Electrochemistry-Electrochemical Reduction Using Glassy Carbon Electrode in Aqueous Medium of a Potential Anti-Chagas Drug: NFOH
+Estudo das relações entre a estrutura e atividade de uma classe de inibidores da principal cisteíno protease de Trypanosoma cruzi
+Construção e validação de modelo farmacofórico específico para cruzaína
+Interaction between antichagasic compounds and cyclodextrin determined by NMR
+Antichagásicos potenciais: estudo de docking e atividade inibotória de compostos na cruzaína (cruzipaína)
+Estudo de docking e atividade de inibição da cruzaína de análogos do nitrofural com atividade antichagásica potencial
+Aplicação da modelagem molecular no ensino de química farmacêutica
+Estudo conformacional de derivados 5-nitro-heterocíclicos com potencial atividade antichagásica
+Hidroximetilnitrofural: bases físico-químicas para a compreensão da atividade tripanomicida
+Synthesis of Mannich basis nitrofural-Lys-Arg: pro-pharma potential anti-chagasic; Sintese da base de Mannich nitrofural-Lys-Arg: pro-farmaco potencialmente antichagasico
+Comparison of synthesis methods of hydroxymethyl nitrofural, pro-pharma from nitrofural with potential anti-chagasic activity
+Synthesis of the mannich base of nitrofurazone and arginine, a prodrug with potential antichagasic activity
+Comportamento voltamétrico de um novo antichagásico potencial: hidroximetilnitrofurazona
+Comparação de métodos de síntese do hidroximetilnitrofural, pró-fármaco do nitrofural com atividade antichagásica potencial
